@@ -1,0 +1,13 @@
+streamlit
+pandas
+plotly
+requests
+python-dotenv
+scikit-lseaborn
+tabulate
+xhtml2pdf
+markdown
+matplotlib
+koreanize_matplotlib
+scipy
+statsmodels
